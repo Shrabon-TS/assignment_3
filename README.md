@@ -85,10 +85,9 @@ Open the project in VS Code and run:
 python student_management.py
 
 Project Structure
-Assignment-3/
-├── student_management.py
-├── README.md
-└── .gitignore
+Assignment-3
+── student_management.py
+── README.md
 
 Technology
 
