@@ -38,19 +38,19 @@ Research Topic
 
 It also overrides the get_student_type() method.
 
-OOP Concepts Used
+OOP Concepts Used :-
 
-Class & Object : Classes are used to create different student objects.
+Class & Object 
 
-Inheritance : Undergraduate and Graduate students inherit from the Student class.
+Inheritance 
 
-Polymorphism : The same method produces different results for different student types.
+Polymorphism 
 
-Method Overriding : Child classes override get_student_type().
+Method Overriding 
 
-Method Overloading : add_marks(*marks) accepts different numbers of marks.
+Method Overloading 
 
-Encapsulation : Private attributes such as __email and __marks are used.
+Encapsulation 
 
 Features
 
@@ -78,6 +78,8 @@ Average	Grade
 50-59	C
 40-49	D
 Below 40	F
+
+
 How to Run
 
 Open the project in VS Code and run:
@@ -91,6 +93,6 @@ Assignment-3
 
 Technology
 
-Python 3
+Python 3.14.7
 
 Object-Oriented Programming
